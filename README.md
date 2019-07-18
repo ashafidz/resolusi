@@ -1,2 +1,2 @@
 # resolusi
-REpository untuk simpan resolusi setelah PSDKU Polinema
+Repository untuk simpan resolusi setelah PSDKU Polinema
