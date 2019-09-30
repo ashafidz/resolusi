@@ -1,5 +1,7 @@
 senin = GIT
 selasa = Desain Antar Muka
-Rabu
-Kamis
+Rabu = UI
+Kamis = K3
+Jumat = k3 kelas A
+Sabtu
 
