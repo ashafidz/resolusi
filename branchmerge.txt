@@ -1,2 +1,5 @@
-senin = 
-selasa = 
+senin = GIT
+selasa = Desain Antar Muka
+Rabu
+Kamis
+
