@@ -2,6 +2,6 @@ senin = GIT
 selasa = Desain Antar Muka
 Rabu = UI
 Kamis = K3
-Jumat
+Jumat = k3 kelas A
 Sabtu
 
